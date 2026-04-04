@@ -104,6 +104,7 @@ Semua test case telah dijalankan dan menghasilkan:
 ## 👨‍💻 Author
 
 Nama: Ruth Marelisa Hutagalung
+
 Project: Automation Testing Cypress - OrangeHRM Login
 
 ---
